@@ -1,5 +1,5 @@
 <h1>Hello, Suci Dwi Pratiwi in here!👋</h1>
-<p><b>Software Development Enthusiast From Bekasi City</b></p>
+<p><b>Full Stack Dev Enthusiast From Bekasi City</b></p>
 
 - 🌱 I’m currently learning <b>PHP OOP</b>
 - 💞️ I’m looking to collaborate on <b>Software Team ProjectP</b>
