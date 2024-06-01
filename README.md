@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on <b>Software Team ProjectP</b>
 - 📫 How to reach me <a><b>pratiwisucidwii@gmail.com</b></a>
 - 😄 Pronouns: <b>"Sexy Foxie"</b>
-- ⚡ Fun fact: <b>"List Schedule Management & Archives Girl Support"</b>
+- ⚡ Fun fact: <b>"Life Schedule Management & Archives Girl Support"</b>
 
 <!---
 sucidprtt/sucidprtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
