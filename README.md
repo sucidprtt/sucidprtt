@@ -1,7 +1,7 @@
 <h1>Hello, Suci Dwi Pratiwi in here!👋</h1>
-<p><b>Full Stack Dev Enthusiast From Bekasi City</b></p>
+<p><b>WEB DEV N GRAPHIC DESIGN Enthusiast From Bekasi City</b></p>
 
-- 🌱 I’m currently learning on <b>Vocasia</b>
+- 🌱 I’m finally learning on <b>VOCASIA</b>
 - 💞️ I’m looking to collaborate on <b>Software Team Project</b>
 - 📫 How to reach me <a><b>pratiwisucidwii@gmail.com</b></a>
 - 😄 Pronouns: <b>"Sexy Foxie"</b>
